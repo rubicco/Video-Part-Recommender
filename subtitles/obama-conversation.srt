@@ -1,0 +1,1685 @@
+1
+00:00:01,159 --> 00:00:04,179
+Ezra Klein: So let’s begin with the economy.
+
+1
+00:00:04,179 --> 00:00:07,458
+We're in a point where the economy is growing.
+
+1
+00:00:07,458 --> 00:00:09,359
+We have very high corporate profits.
+
+1
+00:00:09,359 --> 00:00:14,939
+We have a record stock market, and yet for
+decades now we've not been seeing significant
+
+1
+00:00:14,939 --> 00:00:16,870
+wage increases for the American people.
+
+1
+00:00:16,870 --> 00:00:21,219
+How have we gotten to a point where we can
+have high corporate profits, and businesses
+
+1
+00:00:21,219 --> 00:00:25,410
+can be doing so well, but the workers don't
+necessarily share in that prosperity?
+
+1
+00:00:25,410 --> 00:00:28,750
+Barack Obama: Well, this has been at least
+a three-decade-long trend.
+
+1
+00:00:28,750 --> 00:00:31,910
+And this was a major topic in my State of
+the Union address.
+
+1
+00:00:31,910 --> 00:00:39,049
+We obviously came in at a time of enormous
+crisis, and the first task was making sure
+
+1
+00:00:39,049 --> 00:00:41,649
+we didn't have a complete global economic
+meltdown.
+
+1
+00:00:41,649 --> 00:00:46,390
+The steps we took, whether making sure the
+financial system was functioning — saving
+
+1
+00:00:46,390 --> 00:00:51,140
+the auto industry, encouraging state and local
+spending.
+
+1
+00:00:51,140 --> 00:00:56,820
+All those things made a difference in buoying
+the economy, and then it’s been a hard but
+
+1
+00:00:56,820 --> 00:01:02,170
+steady slog to the point where now we're growing
+at a robust pace and unemployment has come
+
+1
+00:01:02,170 --> 00:01:05,350
+down faster than any time in the last 30 years.
+
+1
+00:01:05,349 --> 00:01:13,589
+In some ways we're now back to the position
+where we can focus on what is this longer-term
+
+1
+00:01:13,590 --> 00:01:20,750
+trend, and that is a larger and larger share
+of wealth and income going to the very top,
+
+1
+00:01:20,750 --> 00:01:24,579
+and the middle class or folks trying to get
+into the middle class, feeling increasingly
+
+1
+00:01:24,579 --> 00:01:26,549
+squeezed because their wages have stagnated.
+
+1
+00:01:26,549 --> 00:01:29,069
+Now, there are a whole bunch of reasons for
+that.
+
+1
+00:01:29,069 --> 00:01:36,899
+Some of it has to do with technology and entire
+job sectors being eliminated: travel agents,
+
+1
+00:01:36,900 --> 00:01:42,980
+bank tellers, a lot of middle management,
+because of efficiencies with the internet
+
+1
+00:01:42,980 --> 00:01:45,090
+and a paperless office.
+
+1
+00:01:45,090 --> 00:01:50,780
+A lot of it has to do with globalization and
+the rest of the world catching up.
+
+1
+00:01:50,780 --> 00:01:57,049
+Post-World War II, we just had some enormous
+structural advantages because our competitors
+
+1
+00:01:57,049 --> 00:02:02,469
+had been devastated by war, and we had also
+made investments that put us ahead of the
+
+1
+00:02:02,469 --> 00:02:06,140
+curve, whether in education or infrastructure
+or research and development.
+
+1
+00:02:06,140 --> 00:02:15,960
+And around the ‘70s and ‘80s and then
+accelerating beyond that, those advantages
+
+1
+00:02:15,960 --> 00:02:20,680
+went away at the same time as, because of
+technologies, companies are getting a lot
+
+1
+00:02:20,680 --> 00:02:27,090
+more efficient and one last component of this
+is that workers increasingly had less leverage
+
+1
+00:02:27,090 --> 00:02:32,379
+because of changes in labor laws and the ability
+for capital to move and labor not to move.
+
+1
+00:02:32,379 --> 00:02:37,159
+ You combine all that stuff and it’s put
+workers in a tougher position.
+
+1
+00:02:37,159 --> 00:02:49,620
+So our job now is to create additional tools
+that, number one, make sure that everybody's
+
+1
+00:02:49,620 --> 00:02:53,960
+got a baseline of support to be able to succeed
+in a constantly moving economy.
+
+1
+00:02:53,960 --> 00:03:00,510
+Whether it’s healthcare that survives job
+loss, whether it is making sure we have child
+
+1
+00:03:00,509 --> 00:03:10,840
+care that allows a two-working-household-family
+to prosper while still caring for their kids.
+
+1
+00:03:10,840 --> 00:03:15,180
+Having a certain baseline in terms of wages,
+through the minimum wage.
+
+1
+00:03:15,180 --> 00:03:16,180
+So that's one set of issues.
+
+1
+00:03:16,180 --> 00:03:22,180
+A second set of issues then becomes: how do
+we make sure that everybody has the tools
+
+1
+00:03:22,180 --> 00:03:25,740
+to succeed in an economy where they constantly
+have to adapt?
+
+1
+00:03:25,740 --> 00:03:32,850
+And how do they move up the value chain, essentially
+because they can work in higher-wage, higher-skill
+
+1
+00:03:32,849 --> 00:03:36,409
+professions, and were able to compete for
+those jobs internationally?
+
+1
+00:03:36,409 --> 00:03:40,289
+Then the third thing is making sure that we
+have an economy that's productive.
+
+1
+00:03:40,289 --> 00:03:46,629
+Now if we do all those things, then what I'm
+confident about is that we can continue to
+
+1
+00:03:46,629 --> 00:03:51,620
+lower the unemployment rate, increase the
+participation rate, and continue to grow and
+
+1
+00:03:51,620 --> 00:03:52,819
+increase productivity.
+
+1
+00:03:52,818 --> 00:03:59,899
+We're still going to have a broader, longer
+term, global question and that is: how do
+
+1
+00:03:59,900 --> 00:04:05,520
+we make sure that the folks at the very top
+are doing enough of their fair share?
+
+1
+00:04:05,520 --> 00:04:13,689
+The winner-take-all aspect of this modern
+economy means that you've got some people
+
+1
+00:04:13,689 --> 00:04:17,389
+who just control enormous amounts of wealth.
+
+1
+00:04:17,389 --> 00:04:21,220
+We don't really resent their success, on the
+other hand just as a practical matter, if
+
+1
+00:04:21,220 --> 00:04:26,260
+we're going to pay for schools, roads, et
+cetera, and you've got you know, fifty people
+
+1
+00:04:26,259 --> 00:04:31,689
+or eighty people having as much wealth as
+three billion, you know you're going to have
+
+1
+00:04:31,689 --> 00:04:38,009
+problems making sure that we're investing
+enough in the common good to be able to move
+
+1
+00:04:38,009 --> 00:04:39,009
+forward.
+
+1
+00:04:39,009 --> 00:04:40,099
+ So that's a long term question.
+
+1
+00:04:40,100 --> 00:04:43,870
+ But right now, there's some very specific
+things we can do that can makes a difference
+
+1
+00:04:43,870 --> 00:04:45,810
+and help middle class families.
+
+1
+00:04:45,810 --> 00:04:47,850
+And that's why I called it middle-class economics.
+
+1
+00:04:47,850 --> 00:04:48,850
+ 
+
+1
+00:04:48,850 --> 00:04:52,180
+Ezra: To focus a bit on that long term question,
+does that put us in a place long term where
+
+1
+00:04:52,180 --> 00:04:58,250
+redistribution becomes, in a sense, a positive
+good in and of itself, that you have an economy
+
+1
+00:04:58,250 --> 00:05:03,439
+or potentially you have the government playing
+the role not of powering the growth engine
+
+1
+00:05:03,439 --> 00:05:06,649
+which is what a lot of what had to be done
+after the financial crisis, but of making
+
+1
+00:05:06,649 --> 00:05:12,239
+sure that while that growth engine is running,
+that it is ensuring that enough of the gains
+
+1
+00:05:12,240 --> 00:05:16,930
+and prosperity is shared that the political
+support for that fundamental economic model
+
+1
+00:05:16,930 --> 00:05:18,129
+to remain strong?
+
+1
+00:05:18,129 --> 00:05:19,269
+Obama: That's always been the case.
+
+1
+00:05:19,269 --> 00:05:20,849
+I don't think that's entirely new.
+
+1
+00:05:20,850 --> 00:05:27,340
+The fact of the matter is that relative to
+our post-war history, taxes now are not particularly
+
+1
+00:05:27,339 --> 00:05:33,829
+high or particularly progressive compared
+to what they were, say, in the late ‘50s
+
+1
+00:05:33,829 --> 00:05:34,829
+or the ‘60s.
+
+1
+00:05:34,829 --> 00:05:40,859
+And there's always been this notion that for
+a country to thrive, there are some things,
+
+1
+00:05:40,860 --> 00:05:43,910
+as Lincoln says, that we can do better together
+than we can do for ourselves.
+
+1
+00:05:43,910 --> 00:05:49,650
+And whether that's building roads, or setting
+up effective power grids, or making sure that
+
+1
+00:05:49,649 --> 00:05:54,829
+we've got high quality public education, that
+teachers are paid enough, the market will
+
+1
+00:05:54,829 --> 00:05:57,019
+not cover those things.
+
+1
+00:05:57,019 --> 00:05:58,198
+And we've got to do them together.
+
+1
+00:05:58,199 --> 00:05:59,699
+Basic research falls in that category.
+
+1
+00:05:59,699 --> 00:06:01,349
+So that's always been true.
+
+1
+00:06:01,350 --> 00:06:07,260
+I think that part of what's changed is that
+a lot of that burden for making sure that
+
+1
+00:06:07,259 --> 00:06:13,319
+the pie was broadly shared took place before
+government even got involved.
+
+1
+00:06:13,319 --> 00:06:15,819
+If you had stronger unions, you had higher
+wages.
+
+1
+00:06:15,819 --> 00:06:23,370
+If you had a corporate culture that felt a
+sense of place and commitment so that the
+
+1
+00:06:23,370 --> 00:06:33,399
+CEO was in Pittsburgh or was in Detroit and
+felt obliged, partly because of social pressure
+
+1
+00:06:33,399 --> 00:06:37,459
+but partly because they felt a real affinity
+toward the community, to re-invest in that
+
+1
+00:06:37,459 --> 00:06:41,189
+community and to be seen as a good corporate
+citizen.
+
+1
+00:06:41,189 --> 00:06:49,040
+ Today what you have is quarterly earning
+reports, compensation levels for CEOs that
+
+1
+00:06:49,040 --> 00:06:58,449
+are tied directly to those quarterly earnings,
+you've got international capital that is demanding
+
+1
+00:06:58,449 --> 00:07:02,990
+maximizing short term profits.
+
+1
+00:07:02,990 --> 00:07:11,110
+And so what happens is that a lot of the distributional
+questions that used to be handled in the marketplace
+
+1
+00:07:11,110 --> 00:07:19,110
+through decent wages or health care or defined
+benefit pension plans, those things all are
+
+1
+00:07:19,110 --> 00:07:20,460
+eliminated.
+
+1
+00:07:20,459 --> 00:07:25,509
+And the average employee, the average worker,
+doesn't feel any benefit.
+
+1
+00:07:25,509 --> 00:07:31,060
+So part of our job is what can government
+do directly through tax policy?
+
+1
+00:07:31,060 --> 00:07:34,509
+What we’ve proposed, for example, in terms
+of capital gains.
+
+1
+00:07:34,509 --> 00:07:39,349
+That would make a big difference in our capacity
+to give a tax break to a working mom for child
+
+1
+00:07:39,350 --> 00:07:40,350
+care.
+
+1
+00:07:40,350 --> 00:07:46,830
+And that's smart policy, and there's no evidence
+that would hurt the incentives of folks at
+
+1
+00:07:46,829 --> 00:07:52,709
+Google or Microsoft or Uber not to invent
+what they invent or not to provide services
+
+1
+00:07:52,709 --> 00:07:53,709
+they provide.
+
+1
+00:07:53,709 --> 00:08:02,198
+It just means that instead of 20 billion dollars,
+maybe they've got 18.
+
+1
+00:08:02,199 --> 00:08:03,199
+Right?
+
+1
+00:08:03,199 --> 00:08:08,580
+ But it does mean that mom can go to work
+without worrying that her kid's not in a safe
+
+1
+00:08:08,579 --> 00:08:10,109
+place.
+
+1
+00:08:10,110 --> 00:08:11,110
+ 
+
+1
+00:08:11,110 --> 00:08:12,670
+We also still have to focus on the front end.
+
+1
+00:08:12,670 --> 00:08:21,000
+Which is even before taxes are paid, are there
+ways that we can increase the bargaining power
+
+1
+00:08:21,000 --> 00:08:29,689
+and the -- making sure that an employee has
+some ... measurable increases in their incomes
+
+1
+00:08:29,689 --> 00:08:34,820
+and their wealth and their security as a consequence
+of an economy that's improving.
+
+1
+00:08:34,820 --> 00:08:42,959
+ And that's where issues like labor laws
+make a difference, that's where, say in shareholder
+
+1
+00:08:42,958 --> 00:08:50,828
+meetings,and trying to change the culture
+in terms of compensation at the corporate
+
+1
+00:08:50,828 --> 00:08:51,828
+level.
+
+1
+00:08:51,828 --> 00:08:52,828
+Those things could make a difference.
+
+1
+00:08:52,828 --> 00:08:57,919
+And there's been some interesting conversations
+globally around issues like inclusive capitalism
+
+1
+00:08:57,919 --> 00:09:00,009
+and how we can make it work for everybody.
+
+1
+00:09:00,009 --> 00:09:04,480
+Ezra: When you drill into that pretax portion,
+one thing you can find in wages is health
+
+1
+00:09:04,480 --> 00:09:05,480
+care costs.
+
+1
+00:09:05,480 --> 00:09:06,480
+Obama: Yeah.
+
+1
+00:09:06,480 --> 00:09:10,938
+Ezra: And when you drill deeper into the health
+care costs, one thing you find is that a major
+
+1
+00:09:10,938 --> 00:09:16,458
+piece of why Americans pay so much more is
+that when we go to a hospital, an MRI, or
+
+1
+00:09:16,458 --> 00:09:22,198
+an appendectomy, or even a bottle of cholesterol
+drugs, just costs much more for an American
+
+1
+00:09:22,198 --> 00:09:25,919
+to buy than it does in Germany, in Japan,
+in Canada, in Great Britain.
+
+1
+00:09:25,919 --> 00:09:31,909
+Why do you think Americans pay so much higher
+health care prices than folks in other countries?
+
+1
+00:09:31,909 --> 00:09:34,058
+Obama: Well, you know there are a lot of theories
+about this.
+
+1
+00:09:34,058 --> 00:09:38,769
+But I think the evidence points to a couple
+of key factors.
+
+1
+00:09:38,769 --> 00:09:40,778
+One is that we've got a third-party system.
+
+1
+00:09:40,778 --> 00:09:46,088
+Mostly we've got a system where everybody
+gets their health insurance through their
+
+1
+00:09:46,089 --> 00:09:47,339
+employers.
+
+1
+00:09:47,339 --> 00:09:52,690
+Obviously the Affordable Care Act, Obamacare,
+helps to cover the gap for those who aren't
+
+1
+00:09:52,690 --> 00:09:54,319
+in that system.
+
+1
+00:09:54,318 --> 00:09:59,539
+But for those of us who have an insurer, we
+don't track it.
+
+1
+00:09:59,539 --> 00:10:08,838
+And the market then becomes really opaque
+and really hard to penetrate.
+
+1
+00:10:08,839 --> 00:10:17,889
+Health providers are able to, I think, charge
+without much fear that somebody's looking
+
+1
+00:10:17,889 --> 00:10:21,560
+over their shoulders and asking well why does
+this cost that much?
+
+1
+00:10:21,559 --> 00:10:23,558
+So that's part of it.
+
+1
+00:10:23,558 --> 00:10:29,969
+That's one of the reasons the Affordable Care
+Act, a lot of the attention’s been on making
+
+1
+00:10:29,970 --> 00:10:35,259
+sure that the uninsured have peace of mind,
+and people who currently have insurance but
+
+1
+00:10:35,259 --> 00:10:39,379
+at some point might lose it or have pre-existing
+conditions are going to have it, that's obviously
+
+1
+00:10:39,379 --> 00:10:45,028
+the moral basis for what we did.
+
+1
+00:10:45,028 --> 00:10:49,249
+But people haven't been paying as much attention
+to the delivery system reforms that we're
+
+1
+00:10:49,249 --> 00:10:52,339
+trying to institute through the Affordable
+Care Act as well.
+
+1
+00:10:52,339 --> 00:10:57,339
+I can't take credit for all four years of
+the lowest health care inflation in the last
+
+1
+00:10:57,339 --> 00:11:01,209
+fifty, that we've seen since the Affordable
+Care Act passed.
+
+1
+00:11:01,208 --> 00:11:05,058
+Some of the trends I think were already on
+their way.
+
+1
+00:11:05,058 --> 00:11:10,600
+But we are accelerating a lot of reforms,
+for example.
+
+1
+00:11:10,600 --> 00:11:17,619
+What do we do to make sure that instead of
+paying a doctor of a hospital for just providing
+
+1
+00:11:17,619 --> 00:11:22,509
+a service, let’s make sure that they're
+being rewarded for a good outcome?
+
+1
+00:11:22,509 --> 00:11:30,230
+Which may mean in some cases fewer tests or
+a less expensive generic drug, or just making
+
+1
+00:11:30,230 --> 00:11:33,909
+sure that all your employees are washing your
+hands so that you're cutting the infection
+
+1
+00:11:33,909 --> 00:11:41,999
+rate, or making sure that hospitals are reimbursed
+when there's a lower readmissions rate, as
+
+1
+00:11:41,999 --> 00:11:44,409
+opposed to when they're doing more stuff.
+
+1
+00:11:44,409 --> 00:11:53,798
+And using Medicare as a lever, I think, is
+creating an environment in the health care
+
+1
+00:11:53,798 --> 00:12:05,208
+field where we can start getting better outcomes
+and lower costs at the same time.
+
+1
+00:12:05,208 --> 00:12:12,349
+There are still going to be those who argue
+that unless you get a single-payer system,
+
+1
+00:12:12,350 --> 00:12:14,819
+you're never going to get all the efficiencies.
+
+1
+00:12:14,818 --> 00:12:22,099
+There's certain areas like drugs where the
+fact that Congress has not been, and the Republican
+
+1
+00:12:22,100 --> 00:12:30,009
+Party in particular, has been resistant to
+letting drug makers and Medicare negotiate
+
+1
+00:12:30,009 --> 00:12:32,278
+for the lowest price.
+
+1
+00:12:32,278 --> 00:12:39,220
+It results in us paying a lot more than we
+should.
+
+1
+00:12:39,220 --> 00:12:45,579
+ But if we're paying four, five, six, eight
+percent more than other countries for the
+
+1
+00:12:45,578 --> 00:12:51,938
+same outcomes, I'd be pretty happy where we're
+only paying two or three percent more.
+
+1
+00:12:51,938 --> 00:12:56,480
+Because that represents hundreds of billions
+of dollars and means we can do a lot with
+
+1
+00:12:56,480 --> 00:12:57,480
+that money.
+
+1
+00:12:57,480 --> 00:13:01,369
+Ezra: When you talk about Medicare as a lever,
+Medicare tends to pay a lot less per service
+
+1
+00:13:01,369 --> 00:13:04,739
+than private insurers by a margin.
+
+1
+00:13:04,739 --> 00:13:09,689
+Before single payer there's also this idea
+you hear occasionally of letting private insurers
+
+1
+00:13:09,688 --> 00:13:14,058
+band together with Medicare, with Medicaid,
+to jointly negotiate prices.
+
+1
+00:13:14,058 --> 00:13:15,469
+Do you think that's a good idea?
+
+1
+00:13:15,470 --> 00:13:27,750
+Obama: You know, I think that moving in the
+direction where consumers and others can have
+
+1
+00:13:27,750 --> 00:13:34,119
+more power in the marketplace, particularly
+when it comes to drugs, makes a lot of sense.
+
+1
+00:13:34,119 --> 00:13:38,620
+ Now you'll hear from the drug companies
+that part of the reasons other countries pay
+
+1
+00:13:38,620 --> 00:13:41,298
+less for drugs is they don't innovate.
+
+1
+00:13:41,298 --> 00:13:47,659
+We essentially through our system, subsidize
+the innovation and other countries are free
+
+1
+00:13:47,659 --> 00:13:49,469
+riders.
+
+1
+00:13:49,470 --> 00:13:53,309
+There's probably a little bit of truth to
+that but when you look at the number of breakthrough
+
+1
+00:13:53,308 --> 00:13:58,278
+drugs and the amount of money that drug companies
+now are putting into research and where they're
+
+1
+00:13:58,278 --> 00:14:07,298
+putting it, a whole lot of it is actually
+in redesigning, modestly, existing drugs so
+
+1
+00:14:07,298 --> 00:14:11,578
+they can renew patents and maintain higher
+prices and higher profits.
+
+1
+00:14:11,578 --> 00:14:14,039
+That's not entirely true... but there's some
+of that.
+
+1
+00:14:14,039 --> 00:14:20,219
+So there is a lot of savings that could be
+achieved while still making sure that our
+
+1
+00:14:20,220 --> 00:14:24,569
+drug industry is the best in the world, and
+will still be making a healthy profit.
+
+1
+00:14:24,568 --> 00:14:29,058
+Ezra: To turn a bit towards politics, at this
+point according to the polls, you are the
+
+1
+00:14:29,058 --> 00:14:32,678
+most polarizing president really since we
+began polling, but before you the record was
+
+1
+00:14:32,678 --> 00:14:37,249
+set by George W. Bush, and before George W.
+Bush the record was set by Bill Clinton.
+
+1
+00:14:37,249 --> 00:14:41,308
+It seems that there's something structural
+happening there in terms party polarization
+
+1
+00:14:41,308 --> 00:14:45,999
+and the way it affects approval ratings and
+cooperation with presidents.
+
+1
+00:14:45,999 --> 00:14:51,359
+In your State of the Union you struck back
+at critics who say that the idea of healing
+
+1
+00:14:51,359 --> 00:14:55,239
+some of these divisions is naïve or impossible.
+
+1
+00:14:55,239 --> 00:15:00,619
+So when you welcome your successor into office,
+what would you tell them there is worth trying
+
+1
+00:15:00,619 --> 00:15:04,579
+to that you think that can still work, that
+would reduce the polarization?
+
+1
+00:15:04,578 --> 00:15:11,948
+Obama: Well, there are a couple of things
+that in my mind, at least, contribute to our
+
+1
+00:15:11,948 --> 00:15:17,448
+politics being more polarized than people
+actually are.
+
+1
+00:15:17,448 --> 00:15:20,708
+And I think most people just sense this in
+their daily lives.
+
+1
+00:15:20,708 --> 00:15:30,618
+Everybody's got a family member or a really
+good friend from high school who is on the
+
+1
+00:15:30,619 --> 00:15:34,119
+complete opposite side of the political spectrum.
+
+1
+00:15:34,119 --> 00:15:36,928
+And yet, we still love them, right?
+
+1
+00:15:36,928 --> 00:15:42,639
+ Everybody goes to a soccer game, or watching
+their kids, coaching, and they see parents
+
+1
+00:15:42,639 --> 00:15:48,778
+who they think are wonderful people and then
+if they made a comment about politics suddenly
+
+1
+00:15:48,778 --> 00:15:51,509
+they'd go, 'I can't believe you think that!'
+
+1
+00:15:51,509 --> 00:15:56,879
+ But a lot of it has to do with the fact
+that a) the balkanization of the media means
+
+1
+00:15:56,879 --> 00:16:01,899
+that we just don't have a common place where
+we get common facts and a common world view
+
+1
+00:16:01,899 --> 00:16:06,039
+the way we did twenty, thirty years ago.
+
+1
+00:16:06,039 --> 00:16:09,708
+And that just keeps on accelerating, you know,
+and I'm not the first to observe this but
+
+1
+00:16:09,708 --> 00:16:15,498
+you've got the Fox News Rush Limbaugh folks
+and then you've got the MSNBC folks and the
+
+1
+00:16:15,499 --> 00:16:21,798
+-- I dunno where Vox falls into that, but
+you guys are I guess for the brainiac nerd
+
+1
+00:16:21,798 --> 00:16:23,869
+types.
+
+1
+00:16:23,869 --> 00:16:30,519
+But the point is that technology which brings
+the world to us also allows us to narrow our
+
+1
+00:16:30,519 --> 00:16:31,698
+point of view.
+
+1
+00:16:31,698 --> 00:16:33,349
+That's contributed to it.
+
+1
+00:16:33,350 --> 00:16:35,649
+Gerrymandering contributes to it.
+
+1
+00:16:35,649 --> 00:16:41,159
+There's no incentive for most members of congress,
+on the House side at least, in congressional
+
+1
+00:16:41,159 --> 00:16:43,499
+districts, to even bother trying to appeal.
+
+1
+00:16:43,499 --> 00:16:47,100
+And a lot of it has to do with just unlimited
+money.
+
+1
+00:16:47,100 --> 00:16:56,850
+So people are absorbing an entirely different
+reality when it comes to politics, even though
+
+1
+00:16:56,850 --> 00:17:01,329
+the way they're living their lives and interacting
+with each other isn't that polarizing.
+
+1
+00:17:01,328 --> 00:17:12,578
+So my advice to a future president is increasingly
+try to bypass the traditional venues that
+
+1
+00:17:12,578 --> 00:17:21,099
+create divisions and try to find new venues
+within this new media that are quirkier, less
+
+1
+00:17:21,099 --> 00:17:22,669
+predictable.
+
+1
+00:17:22,670 --> 00:17:29,700
+You know yesterday I did three interviews
+with YouTube stars that generally don't spend
+
+1
+00:17:29,700 --> 00:17:31,250
+a lot of time talking about politics.
+
+1
+00:17:31,250 --> 00:17:37,299
+And the reason we did it is because they're
+reaching viewers who don't want to be put
+
+1
+00:17:37,299 --> 00:17:41,990
+in some particular camp, on the other hand
+when you talk to them very specifically about
+
+1
+00:17:41,990 --> 00:17:47,660
+college costs or about health care or about
+any of the other things that touch on their
+
+1
+00:17:47,660 --> 00:17:52,769
+individual lives, it turns out that you can
+probably build a pretty good consensus.
+
+1
+00:17:52,769 --> 00:18:02,809
+Now that doesn't ignore the fact that I would
+love to see some constitutional process that
+
+1
+00:18:02,809 --> 00:18:11,079
+would allow us to actually regulate campaign
+spending the way we used to, and maybe even
+
+1
+00:18:11,079 --> 00:18:12,179
+improve it.
+
+1
+00:18:12,180 --> 00:18:17,850
+I'd love to see changes at the state level
+that reduce political gerrymandering.
+
+1
+00:18:17,849 --> 00:18:21,559
+So there's all kinds of structural things
+that I'd like to see that I think would improve
+
+1
+00:18:21,559 --> 00:18:26,500
+this, but, you know there’ve been periods
+in the past where we've been pretty polarized.
+
+1
+00:18:26,500 --> 00:18:28,450
+I think, there just wasn't polling around.
+
+1
+00:18:28,450 --> 00:18:33,400
+As I recall there was a whole civil war, that
+was a good example of polarization that took
+
+1
+00:18:33,400 --> 00:18:34,400
+place.
+
+1
+00:18:34,400 --> 00:18:37,220
+Ezra: Do you think if we don't get some of
+those structural reforms, and more to the
+
+1
+00:18:37,220 --> 00:18:43,610
+point if we continue along this path, in terms
+of where the parties are in Congress, are
+
+1
+00:18:43,609 --> 00:18:45,479
+there ways to govern with polarization?
+
+1
+00:18:45,480 --> 00:18:50,579
+It occurs to me that your argument when you
+came to office, but before you, Bush was a
+
+1
+00:18:50,579 --> 00:18:54,319
+"uniter not a divider" and before him Clinton
+who was going to moderate and change the Democratic
+
+1
+00:18:54,319 --> 00:18:59,099
+party with his sort of Third Way approach,
+the last couple of presidents have come to
+
+1
+00:18:59,099 --> 00:19:02,759
+office promising the way they would get things
+done is to reduce polarization.
+
+1
+00:19:02,759 --> 00:19:08,190
+Is there an argument or an approach that can
+be made to govern amidst polarization?
+
+1
+00:19:08,190 --> 00:19:10,620
+Obama: A couple observations.
+
+1
+00:19:10,619 --> 00:19:17,409
+ Number one is that in American history,
+even during the so-called golden age where,
+
+1
+00:19:17,410 --> 00:19:22,680
+you know, you had liberal Republicans and
+conservative Democrats and there was deal
+
+1
+00:19:22,680 --> 00:19:25,150
+cutting going on in Congress.
+
+1
+00:19:25,150 --> 00:19:30,620
+Generally speaking, big stuff didn't get done
+unless there was a major crisis or you had
+
+1
+00:19:30,619 --> 00:19:38,229
+-- and/or you had big majorities of one party
+controlling the Congress and a president of
+
+1
+00:19:38,230 --> 00:19:39,230
+the same party.
+
+1
+00:19:39,230 --> 00:19:40,620
+I mean that's just been the history.
+
+1
+00:19:40,619 --> 00:19:46,849
+There have been exceptions, but that's often
+been the case in terms of big muscle movements
+
+1
+00:19:46,849 --> 00:19:50,029
+in the political system.
+
+1
+00:19:50,029 --> 00:19:56,019
+And you know, my first two years in office
+when I had a Democratic majority and Democratic
+
+1
+00:19:56,019 --> 00:20:03,309
+house and Democratic Senate, we were as productive
+as any time since Lyndon Johnson.
+
+1
+00:20:03,309 --> 00:20:07,279
+And when the majority went away stuff got
+blocked.
+
+1
+00:20:07,279 --> 00:20:15,289
+Probably the one thing that we could change
+without a constitutional amendment that would
+
+1
+00:20:15,289 --> 00:20:21,569
+make a difference here would be the elimination
+of the routine use of the filibuster in the
+
+1
+00:20:21,569 --> 00:20:22,569
+Senate.
+
+1
+00:20:22,569 --> 00:20:31,039
+Because I think that does, in an era in which
+the parties are more polarized, it almost
+
+1
+00:20:31,039 --> 00:20:38,750
+ensures greater gridlock and less clarity
+in terms of the positions of the parties.
+
+1
+00:20:38,750 --> 00:20:41,400
+There's nothing in the constitution that requires
+it.
+
+1
+00:20:41,400 --> 00:20:48,060
+The framers were pretty good about designing
+a house, a senate, two years versus six year
+
+1
+00:20:48,059 --> 00:20:52,210
+terms, every state getting two senators.
+
+1
+00:20:52,210 --> 00:20:58,759
+There were a whole bunch of things in there
+to assure that a majority didn't just run
+
+1
+00:20:58,759 --> 00:20:59,759
+rampant.
+
+1
+00:20:59,759 --> 00:21:04,730
+The filibuster in this modern age probably
+just torques it too far in the direction of
+
+1
+00:21:04,730 --> 00:21:10,920
+a majority party not being able to govern
+effectively and move forward its platform.
+
+1
+00:21:10,920 --> 00:21:13,060
+And i think that's an area where we can make
+some improvement.
+
+1
+00:21:13,059 --> 00:21:18,000
+Ezra: One of the powerful things that's happened
+as polarization has increased politically
+
+1
+00:21:18,000 --> 00:21:20,559
+is it's begun structuring people's other identities.
+
+1
+00:21:20,559 --> 00:21:23,509
+The one I'm particularly interested in here
+is race.
+
+1
+00:21:23,509 --> 00:21:27,640
+If you look back at polling around the OJ
+Simpson verdict or the Bernhard Goetz shooting
+
+1
+00:21:27,640 --> 00:21:32,200
+in New York, Republicans and Democrats you
+basically couldn't tell them apart.
+
+1
+00:21:32,200 --> 00:21:37,519
+Now you look at the Zimmerman verdict or you
+look at what's going on in Ferguson and opinion
+
+1
+00:21:37,519 --> 00:21:40,889
+on racial issues is very sharply split by
+party.
+
+1
+00:21:40,890 --> 00:21:45,950
+ Do you worry about the merging of sort of
+racial and partisan identity?
+
+1
+00:21:45,950 --> 00:21:49,670
+Obama: I don't worry about that because I
+don't think that's going to last.
+
+1
+00:21:49,670 --> 00:21:56,779
+I worry very much about the immediate consequences
+of mistrust between police and minority communities.
+
+1
+00:21:56,779 --> 00:22:03,299
+I think there are things we can do to train
+our police force and make sure that everybody
+
+1
+00:22:03,299 --> 00:22:05,430
+is being treated fairly.
+
+1
+00:22:05,430 --> 00:22:13,610
+And the task force that I assigned after the
+Ferguson and New York cases is intended to
+
+1
+00:22:13,609 --> 00:22:18,109
+produce very specific tools for us to deal
+with it.
+
+1
+00:22:18,109 --> 00:22:26,339
+But over the long term, I'm pretty optimistic
+and the reason is because this country just
+
+1
+00:22:26,339 --> 00:22:31,789
+becomes more and more of a hodge-podge of
+folks.
+
+1
+00:22:31,789 --> 00:22:41,509
+Again, this is an example where things seem
+very polarized at the national level and media
+
+1
+00:22:41,509 --> 00:22:45,859
+spotlight, but you go into communities -- you
+know one of the great things about being president
+
+1
+00:22:45,859 --> 00:22:52,109
+is you travel through the entire country and
+you go to Tennessee and it turns out that
+
+1
+00:22:52,109 --> 00:22:53,879
+you've got this huge Kurdish community.
+
+1
+00:22:53,880 --> 00:23:07,620
+And you go to some little town in Iowa and
+you see some hasidic Jewish community, and
+
+1
+00:23:07,619 --> 00:23:13,500
+then you see a bunch of interracial black
+and white couples running around with their
+
+1
+00:23:13,500 --> 00:23:14,500
+kids.
+
+1
+00:23:14,500 --> 00:23:21,160
+And this is in these little farm communities
+and you've got Latinos in the classroom when
+
+1
+00:23:21,160 --> 00:23:22,670
+you visit the schools there.
+
+1
+00:23:22,670 --> 00:23:30,700
+ So people are getting more and more comfortable
+with the diversity of this country, much more
+
+1
+00:23:30,700 --> 00:23:37,809
+sophisticated about both the cultural differences
+but more importantly the basic commonality
+
+1
+00:23:37,809 --> 00:23:39,779
+that we have.
+
+1
+00:23:39,779 --> 00:23:48,129
+And you know the key is to make sure that
+our politics and our politicians are tapping
+
+1
+00:23:48,130 --> 00:23:55,050
+into that better set of impulses rather than
+our baser fears.
+
+1
+00:23:55,049 --> 00:24:05,490
+And my gut tells me, and I've seen it in my
+own career and you see it generally, a politician
+
+1
+00:24:05,490 --> 00:24:12,319
+who plays on those fears in America, I don't
+think is gonna over time get a lot of traction.
+
+1
+00:24:12,319 --> 00:24:20,279
+Even, you know, it's not a perfect analogy
+but if you think about how rapidly the whole
+
+1
+00:24:20,279 --> 00:24:27,730
+issue of the LGBT community and discrimination
+against gays and lesbians has shifted.
+
+1
+00:24:27,730 --> 00:24:39,440
+The Republican party, even the most conservative,
+they have much less ability I think to express
+
+1
+00:24:39,440 --> 00:24:44,490
+discriminatory views than they did even 10
+years ago.
+
+1
+00:24:44,490 --> 00:24:47,579
+And that's a source of optimism.
+
+1
+00:24:47,579 --> 00:24:49,859
+It makes me hopeful.
+
+1
+00:24:49,859 --> 00:24:53,029
+Ezra: On Obamacare, something that members
+of your administration have always said, and
+
+1
+00:24:53,029 --> 00:24:57,389
+I think you may have said, there's been a
+lot of language about it being a good start,
+
+1
+00:24:57,390 --> 00:24:58,750
+a platform to begin building.
+
+1
+00:24:58,750 --> 00:25:02,990
+It's full of experiments, the idea is that
+there will be learning, and there will be
+
+1
+00:25:02,990 --> 00:25:03,990
+change.
+
+1
+00:25:03,990 --> 00:25:07,309
+It's been going -- now we're in the second
+year of open enrollment -- what would you
+
+1
+00:25:07,309 --> 00:25:12,269
+like to see, if Congress were able to take
+up a bill, to tweak, to improve, to change,
+
+1
+00:25:12,269 --> 00:25:13,680
+to build on that platform.
+
+1
+00:25:13,680 --> 00:25:18,470
+What specifically from what you wanted in
+there originally or what we've learned since
+
+1
+00:25:18,470 --> 00:25:19,470
+it's actually been in operation.
+
+1
+00:25:19,470 --> 00:25:21,319
+How would you like to see it improved?
+
+1
+00:25:21,319 --> 00:25:31,460
+Obama: Well, I'm not sure, Ezra, that we've
+got enough years of it being in place to know
+
+1
+00:25:31,460 --> 00:25:35,120
+perfectly what needs to be improved, where
+there's still gaps.
+
+1
+00:25:35,119 --> 00:25:38,359
+ It's been a year.
+
+1
+00:25:38,359 --> 00:25:43,639
+So far the verdict is that this thing's working
+for a lot of people.
+
+1
+00:25:43,640 --> 00:25:48,250
+ You've got 10 million people who've been
+enrolled, you've got more folks who've been
+
+1
+00:25:48,250 --> 00:25:53,410
+signed up for the expanded Medicaid coverage,
+you've seen health care inflation stay low
+
+1
+00:25:53,410 --> 00:26:00,680
+or actually be significantly lower than before
+the ACA was passed, satisfaction with the
+
+1
+00:26:00,680 --> 00:26:03,160
+insurance seems to be high.
+
+1
+00:26:03,160 --> 00:26:10,019
+We haven't seen major disruptions to the medical
+system that a lot of people had predicted.
+
+1
+00:26:10,019 --> 00:26:13,410
+So, there's a lot of stuff that's working.
+
+1
+00:26:13,410 --> 00:26:23,810
+Over time, I think seeing if we can do more
+on delivery system reform, making sure that
+
+1
+00:26:23,809 --> 00:26:27,649
+we fill the gaps in those states that haven't
+expanded Medicaid.
+
+1
+00:26:27,650 --> 00:26:34,740
+The big problem we have right now with Obamacare
+is that it was designed to make sure that
+
+1
+00:26:34,740 --> 00:26:38,049
+some subset of people qualified for Medicaid
+and that's how that's how they were going
+
+1
+00:26:38,049 --> 00:26:43,259
+to get coverage, and others were going to
+go into the exchanges because they had slightly
+
+1
+00:26:43,259 --> 00:26:44,259
+higher incomes.
+
+1
+00:26:44,259 --> 00:26:51,730
+And because of the decision of the Roberts
+court that we couldn't incentivize states
+
+1
+00:26:51,730 --> 00:26:58,990
+to expand Medicaid the way we had originally
+intended, you’ve got a lot of really big
+
+1
+00:26:58,990 --> 00:27:04,950
+states, you've got tens of millions of people
+who aren't able to get their Medicaid coverage.
+
+1
+00:27:04,950 --> 00:27:08,840
+And so there's this gap.
+
+1
+00:27:08,839 --> 00:27:12,259
+And that's probably the biggest challenge
+for us.
+
+1
+00:27:12,259 --> 00:27:18,839
+The good news is in dribs and drabs, much
+as was true with the original Medicaid program,
+
+1
+00:27:18,839 --> 00:27:24,389
+you're starting to see Republican Governor
+and Republican State Legislatures realize
+
+1
+00:27:24,390 --> 00:27:27,180
+that we're cutting off our nose to spite our
+face.
+
+1
+00:27:27,180 --> 00:27:34,080
+We've got an ideological objection to us helping
+our own constituencies and our own health
+
+1
+00:27:34,079 --> 00:27:35,079
+care systems.
+
+1
+00:27:35,079 --> 00:27:42,819
+And to their credit, you've got folks like
+John Kasich in Ohio and Snyder in Michigan
+
+1
+00:27:42,819 --> 00:27:48,599
+and now, most recently the governor up in
+Alaska and others who are saying ‘You know
+
+1
+00:27:48,599 --> 00:27:49,990
+what this is the right thing to do.
+
+1
+00:27:49,990 --> 00:27:51,420
+Let’s go ahead and expand it.’
+
+1
+00:27:51,420 --> 00:27:56,460
+So until that kind of settles, I don't think
+we'll fully know where there's still gaps
+
+1
+00:27:56,460 --> 00:28:00,850
+in coverage, what more we still need to do.
+
+1
+00:28:00,849 --> 00:28:14,160
+But I think that so far, at least, the performance
+of the plans itself, not the website in the
+
+1
+00:28:14,161 --> 00:28:21,940
+first three months but the performance of
+the actual plans, you know has at least met
+
+1
+00:28:21,940 --> 00:28:24,710
+and perhaps exceeded a lot of people's expectations.
+
+1
+00:28:24,710 --> 00:28:26,920
+The website, by the way, works great now.
+
+1
+00:28:26,920 --> 00:28:29,160
+Ezra: I'm going to tag out and let Matt in.
+
+1
+00:28:29,160 --> 00:28:38,500
+Thank you very much for taking the time, sir.
+
+1
+00:28:38,500 --> 00:28:44,740
+Obama: Thank you, really enjoyed it.
+
