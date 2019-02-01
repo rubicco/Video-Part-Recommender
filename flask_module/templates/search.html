@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='css/listing.css')}}">
+  </head>
+  <body>
+    <div class="header">
+      <h1>Header</h1>
+    </div>
+    <div class="search-area">
+      <form class="form-search" method="post" role="form">
+        <input type="text" id="search" name="search" placeholder="Search.." required>
+        <input type="button" id='searchButton' value="Search!">
+      </form>
+    </div>
+    <div class='listing'>
+      <div id="listing-contents">
+        
+      </div>
+    </div>
+
+    <div class="footer">
+      <h2>Footer</h2>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="{{url_for('static', filename='js/search.js')}}"></script>
+  </body>
+</html>

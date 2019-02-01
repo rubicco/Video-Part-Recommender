@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>testapp</title>
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='css/style.css')}}">
+    <!-- <link rel="stylesheet" type="text/css" href="../static/css/style.css"> -->
+  </head>
+  <body>
+    <div class="header">
+      <h1>Header</h1>
+    </div>
+
+    <div class="wrapper">
+      <div class="column left-bar">
+        <span class="left-bar-header">Current Video Parts</span>
+        <div class="left-content-area">
+          <div id="tab-left" class="left-contents" style="display:block">
+
+          </div>
+        </div>
+      </div>
+      <div class="column video-area">
+        <!-- <iframe class="video" src="https://www.youtube.com/embed/jaT9p-_GbhQ?start=40&end=45" frameborder="0" allowfullscreen rel="0"></iframe> -->
+        <div id="player"></div>
+        <br>
+        <button id="prev-part" class="control-button" type="button" name="button" disabled>Previous Part</button>
+        <button id="continue-part" class="control-button" type="button" name="button" disabled>Continue Video</button>
+        <button id="next-part" class="control-button" type="button" name="button" disabled>Next Part</button>
+        <!-- <p id="continue-part">Continue Part</p> -->
+      </div>
+
+      <div id="tabs" class="column side-bar wrapper">
+        <ul  class="tab-area">
+          <li class="selected"><a href="#tab1" class="tab-button"> <span>General</span> </a></li>
+          <li><a href="#tab2" class="tab-button"> <span>Only Category</span> </a></li>
+        </ul>
+        <div id="content-area">
+          <div id="tab1" class="contents" style="display:block"></div>
+          <div id="tab2" class="contents" style="display:none"></div>
+        </div>
+      </div>
+    </div>
+    <div class="footer">
+      <h2>Footer</h2>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="{{url_for('static', filename='js/youtube.js')}}"></script>
+    <script type="text/javascript" src="{{url_for('static', filename='js/script.js')}}"></script>
+    <!-- <script type="text/javascript" src="../static/js/youtube.js"></script>
+    <script type="text/javascript" src="../static/js/script.js"></script> -->
+
+
+  </body>
+</html>
