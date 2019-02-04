@@ -1,6 +1,6 @@
 # Short Documentation:
 
-This application works with subtitles, divide a whole subtitle which belongs to a youtube video and classify tags by using Google APIs.
+This application is written in Python. Splits videos to meaningful parts and recommends parts according to parts of users watched. It uses Google APIs to get the text from the video and classify possible parts of video which are separated from this text. Flask micro-framework is used to create a user client.
 
 ## Output Folder:
 
